@@ -1,0 +1,12 @@
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\bin\Debug\PrimeService.rxtmg
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\bin\Debug\PrimeService.rxtst
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\bin\Debug\PrimeService.exe.config
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\bin\Debug\PrimeService.xml
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\bin\Debug\PrimeService.exe
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\bin\Debug\PrimeService.pdb
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\bin\Debug\Ranorex.Core.Resolver.dll
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\obj\x86\Debug\PrimeService.csprojAssemblyReference.cache
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\obj\x86\Debug\PrimeService.csproj.CoreCompileInputs.cache
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\obj\x86\Debug\PrimeService.csproj.CopyComplete
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\obj\x86\Debug\PrimeService.exe
+C:\Users\kleo7\Desktop\УГТУ\4 курс\Хозяйнова Инструментальные средства ИС\Ranorex\MyTest\MyTest\obj\x86\Debug\PrimeService.pdb

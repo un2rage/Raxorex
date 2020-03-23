@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<modulegroupdoc
+rxversion="9.3">
+	<testsuiteentryhierarchy>
+		<flatlistofchildren>
+			<modulegroups
+			id="b74c2aa5-b618-4b52-8a0e-ed1164fdf876"
+			name="PrimeService">
+			</modulegroups>
+		</flatlistofchildren>
+		<childhierarchy>
+			<modulegroups
+			id="b74c2aa5-b618-4b52-8a0e-ed1164fdf876"
+			name="PrimeService">
+			</modulegroups>
+		</childhierarchy>
+	</testsuiteentryhierarchy>
+</modulegroupdoc>

@@ -1,0 +1,12 @@
+﻿<Properties>
+  <Array name="active" />
+  <ActiveConfiguration value="Debug" />
+  <ActivePlatform value="x86" />
+  <Array name="bookmarks" />
+  <Array name="files" />
+  <SerializedValue name="ModuleBrowserState">
+    <ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />
+  </SerializedValue>
+  <ProjectBrowserState value="[Solution PrimeService[Solution Items[]PrimeService (readonly)[]]]&#xD;&#xA;Solution PrimeService\PrimeService (readonly)&#xD;&#xA;Solution PrimeService" />
+  <StartupProject value="{2ED2F5ED-8403-4363-AFE8-D5AECA77D3D1}" />
+</Properties>

@@ -1,0 +1,184 @@
+﻿<repository
+id="fdf9efd3-85c3-49a6-a769-f005f967c0ce"
+name="PrimeServiceRepository">
+	<codegen
+	classname="PrimeServiceRepository"
+	namespace="MyTest">
+	</codegen>
+	<rootfolder
+	capname="unknown"
+	id="ea9c3029-ae79-466b-af9c-fd3cd3c97ef8"
+	isrooted="True"
+	name="Root"
+	searchtimeout="0ms"
+	usecache="True">
+		<appfolder
+		addcaps="form,control,nativewindow"
+		capname="form"
+		id="671b2cad-895a-4571-b311-3120d3ede88c"
+		isrooted="True"
+		name="Form1"
+		refimgid="82d38e2a-9875-4fd3-a74b-2f284aed607c"
+		refpath="/form[@controlname='Form1']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="text,accessible"
+			capname="text"
+			id="e73bf67a-7d9e-4177-b318-a1cd766658d9"
+			name="Text"
+			refimgid="ce53f1f4-849c-4421-9923-c033c593d418"
+			searchtimeout="30000ms">
+				/form[@controlname='Form1']/?/?/text[@accessiblerole='Text']
+			</item>
+			<item
+			addcaps="button,control,nativewindow"
+			capname="button"
+			id="9a167b77-d2d3-4e6a-b3f4-ebf1cb23b495"
+			name="Button1"
+			refimgid="316949e6-868f-4f84-b97a-1731ad84a1ef"
+			refpath="/form[@controlname='Form1']/button[@controlname='button1']"
+			searchtimeout="30000ms">
+				/form[@controlname='Form1']/button[@controlname='button1']
+			</item>
+			<item
+			addcaps="text,control,nativewindow"
+			capname="text"
+			id="e91f7eb7-5d51-49b1-b8cc-0699cb4bfdbb"
+			name="Label2"
+			refimgid="1e37b9d8-5c58-4a30-82db-5dc584b11cc7"
+			refpath="/form[@controlname='Form1']/text[@controlname='label2']"
+			searchtimeout="30000ms">
+				/form[@controlname='Form1']/text[@controlname='label2']
+			</item>
+			<basepath>
+				/form[@controlname='Form1']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAAH4SURBVDhPrdFdSJNhGMbxR1BzhTJzapnsJGgU
+RnQQEXYQhGkEgRIUihSzrKyEMM0ME00ENRY6WjPLmOasObKkHDTKmoSBERUZbNWsVdtys/nRKjr5
+9+F74AvBwLrggufk/l0Hj/gveTDoYD6VzmcB6SnLsDGZbxOdfPW2EnbXMDNawvTjPCaHNnKlOj4y
+MGRQEfY08cVVzsyzQqYeZTN5by2fB9R0VC6KDNxvTZqzmknIrmGiP4VxaxzGsoVyYGxNNM7VMTzP
+iGVkVRyOlQrsusVMDWcT+r1qUxPoS+DTtWh83QJ9qUIOTN/sJWQ2ETDq8Taexro8noEmJaE7GoL9
+yQR6Ffh7ovjYJfBcFuhK4uRA8KIBf3MDnqpy3hwoQq9O5EaDkuCv1XFLDD6z4INJ8K5D4G4XNO5f
+IAfenzqB+3AxzvwdvMjZTPWSFCy1CfivRuGVVscuCV63CZxGQX1RrBxwFe5idFsWTzPXMZKh4aAq
+7a9/P7fS+SxQkZrKEdVSipPS2J24jAJlOlV9b+l08Kftd+GsDequw7Fu2HrcJgekpyxlZhdGO5y5
+DTVWONoF+9qgoOUH67U9kYG9hiectECpCbTnIV/3ndz6ADmVr1iReyEykFc3yJ5zsLM5zPZaH1sq
+XrLp0EM2aG+RntUiB+ZT6fxfIsRPbYnQgbXhGFYAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="9f41cf92-932a-4f82-9b1a-b8e641f06fde"
+		isrooted="True"
+		name="PrimeServiceWinForm"
+		refimgid="87ca2d65-c9ee-4e5d-808f-57bee762035e"
+		refpath="/form[@title='']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<item
+			addcaps="button,nativewindow"
+			capname="button"
+			id="53b8a1fd-bf1c-4709-98a1-320017bad1ad"
+			name="ButtonОК"
+			refimgid="e7501df5-36b9-4c0f-a1b6-e09e7cb39940"
+			refpath="/form[@title='']/button[@text='ОК']"
+			searchtimeout="30000ms">
+				/form[@title='']/button[@text='ОК']
+			</item>
+			<item
+			addcaps="text,nativewindow"
+			capname="text"
+			id="1ff876dd-2028-4de7-a03e-1ea12f361c2a"
+			name="Text65535"
+			refimgid="1978b756-b1b0-4083-8b21-0499adb226b3"
+			refpath="/form[@title='']/text[@controlid='65535']"
+			searchtimeout="30000ms">
+				/form[@title='']/text[@controlid='65535']
+			</item>
+			<item
+			addcaps="button,accessible"
+			capname="button"
+			id="e7f5d125-5a64-4f77-aa54-91598cd281ae"
+			name="Закрыть"
+			refimgid="f9557cfa-19c1-4db1-90f1-88cf22647c70"
+			refpath="/form[@title='']/titlebar/button[@accessiblename='Закрыть']"
+			searchtimeout="30000ms">
+				/form[@title='']/?/?/button[@accessiblename='Закрыть']
+			</item>
+			<basepath>
+				/form[@title='']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAAAlwSFlz
+AAAOxAAADsQBlSsOGwAAAlFJREFUOE+lk+tLk2EYh/eX9CGipCIyCKLo4HHlzA8SVoR9KogkkKDM
+CKRCCwQtKUjtIJSdrKggqQ+CFZmHHGlzzrU552HqNnWbO7zHXT3bBLXQoG74fXvv63c9z8tj+O9p
+aDFz55WDmuYBqpp+cLnRzJnqTk5UdlNc8YWic60Ulr6koOTJshw8/RjjkXIMdc9tNLVrNLZp3GqV
+qX4dofJZkIpHs5Q3+Tl710fJ7UlO1o5zvNrN0SoXh644yS8zsyZtB4baZjN1bwLcfBvm4oMpTt1w
+U3zdybFrDg5ftVNYYaPg0iCmcisHLgxgLLOQe95CRmk369KNGGoaXuAPxAhHNeZFQhGVYFghIDIb
+SsUbUPDMyLi9Mg6PhHVMosvqYePW7QJQ38JqE4+DokJEijMX0ZkKaoz6VSwuLxs2b8Nw/+n7hU//
+HE0HSYkzH9OZmdeYnNNw+xR+Tir0DP0FoItmWSwnm8M606J5TDQ7pxSs4zKd1tUACW1NLMtxglEd
+X0hjYlbD5VWwTSj0j8h8tgjAphUAi+pxZsRySl3FLtQtozK9wxLtfSsAkupqQl1PqQdS6o6kusJ3
+l0yXQ6LNnACkLwckb1yDqDh3YKn6dEq9zy3R45TosMX40PsbQOyiLqiHhLo/eesqIwl1z6L6V3uM
+T9Yo73q8rE8A7i0xEOVI4p+HYggATMyByxdnyKPRP6rxbVilw67wcVBOAtambRFvof4hufvzyTGa
+yBbJEskUycg1sS/HxN7sPPaI7M7KY1dmKjszUsnJL2LhTf7rGAy/AP7X5rYY5FLEAAAAAElFTkSu
+QmCC
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="container,webdocument"
+		capname="webdocument"
+		id="ea05007e-1f1a-4ebe-8ac6-e96b766a4635"
+		isrooted="True"
+		name="Сообщения"
+		refpath="/dom[@domain='vk.com']"
+		searchtimeout="30000ms"
+		usecache="False">
+			<basepath>
+				/dom[@domain='vk.com']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAABGdBTUEAALGPC/xhBQAAACBjSFJN
+AAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAGHRFWHRTb2Z0d2FyZQBQYWlu
+dC5ORVQgdjMuMzE3g3eGAAACKklEQVQ4T43R20vTcRjHcS/6G4Kgyy6KKKjwJogIDBJjIBUt2YVD
+yoGVmWUWzozMC92YaWqeSE1s0dThOtjBWUlKkMxDudXU1lCU6XSepzu82+/nvNrX6APP1e95Xt/f
+9/vEbaWh7TO1xi4qmjspfWKhuLqN++VGtLqn5BTVk1lQRbRVHGn4X8nTNclYtD020smBYDjaHhsJ
+cIxPbY8YIr+9viEGgqGwDBxLvixXfGJaLCLdedUfCwRDyPDKWoiF5SAuT0AMSA+2BXhXZqmydFBu
+bkfbmkFpayPOyQW8CwHs7jUxIN1NOkEa1llLGA7bsYX7KbTd4GiuiUuVbxhyzTMwuiwGpFX5lkLU
+dFjJ+55Mw5yGGpsRtX6Kk2Ue9jWewtBRx9eRJTEg7XnWF+TBo25SzUmo3inINLjIKoPD1QXsbNvN
+6fxr9Az5xIDm9kOm5gLce+xEW/aF1BYlCmshSr2PMxm32HV3B8ez0/jQPycG1NklTMxsUGUaQaMD
+lc7EIcse4vXJJF18xX7FVUpq6njd5xUDKVeKcE2v4xib52bxIAdza9mbf4CE9OscUZo5q3nO295p
+zD0zYuBcegHOCb+8KpvDi6G5hRMX8klIKaei6b083PdjCdNHjxhQqO/gcPsj77CB27PO2OQa9j+r
+8tq+/VyODC/yaXBxeyBRlUPv8Dzt3eO86PrNs85Rml7+ot7soLrVTqVpsypMTjGQcD5L/vC/tTkV
+F/cXNG0rDkAnVtkAAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<appfolder
+		addcaps="form,nativewindow"
+		capname="form"
+		id="edd6ee58-8c38-4275-aab6-8764298f7d97"
+		isrooted="True"
+		name="ПереключениеЗадач"
+		refpath="/form[@title='Переключение задач']"
+		searchtimeout="30000ms"
+		usecache="True">
+			<basepath>
+				/form[@title='Переключение задач']
+			</basepath>
+			<icon>
+				iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAARnQU1BAACx
+jwv8YQUAAAAJcEhZcwAADsQAAA7EAZUrDhsAAADSSURBVDhPpdK/DsFQGAXw8wg2L9KI9AHEZmhi
+MBgMBoN4AINNIhaCiXbwFCYjg5T4UyGqxCN4gEOjt7lDew33JL/lO9/XuxTaeThgIhvLwEEmWktP
+YINp7lNs/37kPAKT+E6Wb7dF3jvpXkN+N9tMdW2Sl4bS97k6dYBejTrAU5U6wGOFQm+xoTV/KoU7
+8g14KFMozAKaE18p3JFvwL1FIekgiXwD7koUzPEtJs9VHegWKeQHXkyeqzpwbVDI9d2YPFd10Q/9
+i9FdUYhGcVSdRoAPUdlLBd+8Ak0AAAAASUVORK5CYII=
+			</icon>
+		</appfolder>
+		<basepath>
+		</basepath>
+	</rootfolder>
+	<variables>
+	</variables>
+</repository>

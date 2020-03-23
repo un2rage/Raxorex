@@ -1,0 +1,14 @@
+﻿<Properties>
+  <Array name="active">
+    <Element value="PrimeService.rxtst" />
+  </Array>
+  <Array name="bookmarks" />
+  <Array name="files">
+    <Element value="PrimeService.rxtst" />
+    <Element value="Recording1.rxrec" />
+    <Element value="Recording2.rxrec" />
+  </Array>
+  <Properties name="projectSavedData">
+    <Array name="recentusercodeselections" />
+  </Properties>
+</Properties>
